@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="/Users/sameer/Desktop/GitUserSearch/src/components/GitUserList.test.js" errors="0" package="/Users/sameer/Desktop/GitUserSearch/src/components/GitUserList.test.js" hostname="localhost" tests="1" failures="0" time="1.326" timestamp="2021-01-25T04:48:02">
+    <properties>
+    </properties>
+    <testcase classname="GitUserListComponent" name="check the number of rows that are rendered" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="1" name="/Users/sameer/Desktop/GitUserSearch/src/App.test.js" errors="0" package="/Users/sameer/Desktop/GitUserSearch/src/App.test.js" hostname="localhost" tests="2" failures="0" time="5.591" timestamp="2021-01-25T04:48:02">
+    <properties>
+    </properties>
+    <testcase classname="AppComponent" name="check empty search" time="0">
+    </testcase>
+    <testcase classname="AppComponent" name="check if the filter works" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="2" name="/Users/sameer/Desktop/GitUserSearch/src/components/Search.test.js" errors="0" package="/Users/sameer/Desktop/GitUserSearch/src/components/Search.test.js" hostname="localhost" tests="2" failures="0" time="9.656" timestamp="2021-01-25T04:48:02">
+    <properties>
+    </properties>
+    <testcase classname="SearchComponent" name="check if search bar works (case-sensitive)" time="0">
+    </testcase>
+    <testcase classname="SearchComponent" name="check if search bar works (case-insensitive)" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
